@@ -12,6 +12,10 @@
         "url": "https://github.com/rempsyc/pubmedDashboard"
     },
     {
+        "package": "pubDashboard",
+        "url": "https://github.com/rempsyc/pubDashboard"
+    },
+    {
         "package": "githubContributors",
         "url": "https://github.com/rempsyc/githubContributors"
     }
