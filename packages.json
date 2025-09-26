@@ -18,5 +18,9 @@
     {
         "package": "githubContributors",
         "url": "https://github.com/rempsyc/githubContributors"
+    },
+    {
+        "package": "adhoc",
+        "url": "https://github.com/rempsyc/adhoc"
     }
 ]
