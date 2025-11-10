@@ -22,5 +22,9 @@
     {
         "package": "adhoc",
         "url": "https://github.com/rempsyc/adhoc"
-    }
+    },
+    {
+        "package": "flightanalysis",
+        "url": "https://github.com/rempsyc/flightanalysis"
+    }    
 ]
